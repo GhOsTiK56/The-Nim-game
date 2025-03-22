@@ -1,5 +1,7 @@
-# The "Nim" game
-I present my mini-game "Nim".
-This game is made on the Unity engine in 3D.
-Nim is a game in which two players take turns taking objects laid out in several piles. Any number of items (greater than zero) from one pile can be taken in one turn. The player who took the last item wins. In the classic version of the game, the number of piles is three.
-In this game, artificial intelligence was made in a simple way. He takes actions based on chance, so it won't be difficult to win)
+Я представляю свою мини-игру "Nim". 
+Эта игра сделана на движке Unity в 3D. 
+Nim - это игра, в которой два игрока по очереди берут предметы, расположенные на расстоянии нескольких миль. 
+За один ход можно взять любое количество предметов (больше нуля) из одной фишки. Выигрывает игрок, взявший последний предмет. 
+В классической версии игры количество файлов равно трем. 
+В этой игре искусственный интеллект был создан простым способом. 
+Он действует наугад, так что победить ему будет нетрудно)
